@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SQLiteDBKotlin</string>
+    <string name="contact_information">Contact Information</string>
+</resources>
